@@ -1,4 +1,5 @@
 **Scala Discount Calculator**
+
 This Scala project demonstrates a simple discount calculation system for a list of orders. It applies multiple discount rules to each order and calculates the final price after discounts.
 
 
