@@ -33,22 +33,22 @@ Outputs a grand total for all orders combined
 
 **How It Works**
 
-1- Orders are represented as lists of strings with product name and quantity.
-
-2- Discount rules are functions that take an order and return a discount as a decimal (e.g., 0.10 for 10%).
-
-3- The system calculates all applicable discounts for each order, selects the top two highest discounts, averages them, and applies this average discount to the total price.
-
-4- The program outputs detailed pricing information for each order and the grand total.
+ 1- Orders are represented as lists of strings with product name and quantity.
+ 
+ 2- Discount rules are functions that take an order and return a discount as a decimal (e.g., 0.10 for 10%).
+ 
+ 3- The system calculates all applicable discounts for each order, selects the top two highest discounts, averages them, and applies this average discount to the total price.
+ 
+ 4- The program outputs detailed pricing information for each order and the grand total.
 
 
 **How to Run**
-
-1- Save the Scala code in a file, for example, ScalaDiscount.scala.
-
-2- Compile the code using scalac ScalaDiscount.scala.
-
-3- Run the program using scala Main.
+ 
+ 1- Save the Scala code in a file, for example, ScalaDiscount.scala.
+ 
+ 2- Compile the code using scalac ScalaDiscount.scala.
+ 
+ 3- Run the program using scala Main.
 
 
 **Code Structure**
