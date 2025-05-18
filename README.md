@@ -44,11 +44,11 @@ Outputs a grand total for all orders combined
 
 **How to Run**
  
- 1- Save the Scala code in a file, for example, ScalaDiscount.scala.
- 
- 2- Compile the code using scalac ScalaDiscount.scala.
- 
- 3- Run the program using scala Main.
+  1- Save the Scala code in a file, for example, ScalaDiscount.scala.
+  
+  2- Compile the code using scalac ScalaDiscount.scala.
+  
+  3- Run the program using scala Main.
 
 
 **Code Structure**
